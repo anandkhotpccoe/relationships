@@ -1,6 +1,6 @@
 # relationships
 1)One to One
-2)One to Many
+2)Many to Many
 
 # How to Setup?
 1)Change the Database Configuration
